@@ -2,7 +2,7 @@
     "id": "c6531805-f83f-433d-9a08-16165339bee2",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "Spr_Bruh",
+    "name": "Spr_Bruh1",
     "For3D": false,
     "HTile": false,
     "VTile": false,
