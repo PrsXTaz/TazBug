@@ -167,14 +167,6 @@
             }
         },
         {
-            "Key": "c6531805-f83f-433d-9a08-16165339bee2",
-            "Value": {
-                "id": "8248b92a-badd-4c7f-a58f-5c76003b4aaa",
-                "resourcePath": "sprites\\Spr_Bruh1\\Spr_Bruh1.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "b3e569dc-62c6-4253-8176-88c83c82812f",
