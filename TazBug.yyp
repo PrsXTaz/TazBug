@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "8edff19f-e733-475e-8ac2-e1839b2ad348",
+            "Value": {
+                "id": "35c36a99-6f6e-470b-92e6-a99034eebe5f",
+                "resourcePath": "objects\\obj_j_pononyo\\obj_j_pononyo.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9c49a7c6-476c-4a4d-8952-24a024e48e87",
             "Value": {
                 "id": "68d9a765-60be-4cb2-a79e-bfbc819b14c6",
