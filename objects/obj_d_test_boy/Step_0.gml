@@ -1,9 +1,14 @@
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 628216FD
-/// @DnDArgument : "code" "hinput = keyboard_check(vk_right) - keyboard_check(vk_left);$(13_10)vinput = keyboard_check(vk_down) - keyboard_check(vk_up);$(13_10)$(13_10)x += hinput;$(13_10)y += vinput;"
-hinput = keyboard_check(vk_right) - keyboard_check(vk_left);
-vinput = keyboard_check(vk_down) - keyboard_check(vk_up);
+/// @DnDArgument : "code" "hInput = keyboard_check(ord("D")) - keyboard_check(ord("A"));$(13_10)vInput = keyboard_check(ord("S")) - keyboard_check(ord("W"));$(13_10)$(13_10)if(hInput != 0 or vInput != 0){$(13_10)	dir = point_direction(0,0,hInput,vInput);$(13_10)	moveX = lengthdir_x(spd, dir);$(13_10)	moveY = lengthdir_y(spd, dir);$(13_10)	x += moveX;$(13_10)	y += moveY;$(13_10)}"
+hInput = keyboard_check(ord("D")) - keyboard_check(ord("A"));
+vInput = keyboard_check(ord("S")) - keyboard_check(ord("W"));
 
-x += hinput;
-y += vinput;
+if(hInput != 0 or vInput != 0){
+	dir = point_direction(0,0,hInput,vInput);
+	moveX = lengthdir_x(spd, dir);
+	moveY = lengthdir_y(spd, dir);
+	x += moveX;
+	y += moveY;
+}
