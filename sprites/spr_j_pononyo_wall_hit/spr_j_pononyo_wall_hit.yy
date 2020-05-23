@@ -2,7 +2,7 @@
     "id": "719bab1b-a52d-4759-828a-79b9d3d93c31",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_j_pononyo_hit",
+    "name": "spr_j_pononyo_wall_hit",
     "For3D": false,
     "HTile": false,
     "VTile": false,
