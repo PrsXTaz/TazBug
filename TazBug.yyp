@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "25b62b0f-437c-4eaf-af06-d04e2d6603dc",
+            "Value": {
+                "id": "431966ca-4fcf-4f2b-bd62-efe3ad227ac2",
+                "resourcePath": "objects\\obj_game_test\\obj_game_test.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "29f8bc69-c215-4106-ac3f-e73289f320d9",
             "Value": {
                 "id": "47ff43d8-188d-43d7-992f-6306639cbe3d",
