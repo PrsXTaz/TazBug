@@ -202,7 +202,7 @@
             "Key": "719bab1b-a52d-4759-828a-79b9d3d93c31",
             "Value": {
                 "id": "6f51696e-2368-4fce-b62b-64aee2c66fec",
-                "resourcePath": "sprites\\spr_j_pononyo_hit\\spr_j_pononyo_hit.yy",
+                "resourcePath": "sprites\\spr_j_pononyo_wall_hit\\spr_j_pononyo_wall_hit.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -268,6 +268,14 @@
                 "id": "e82cd191-f975-429e-b8ef-b77bcc91d7ae",
                 "resourcePath": "views\\827dedc7-4c71-4c68-8777-1f226152fd4d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8aff9242-e845-4455-b28b-340caf03d2b5",
+            "Value": {
+                "id": "51aa08be-15ff-4405-899a-f6c20dbcb9be",
+                "resourcePath": "sprites\\spr_j_pononyo_player_hit\\spr_j_pononyo_player_hit.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
