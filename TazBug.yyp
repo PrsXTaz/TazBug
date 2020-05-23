@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "75d12d18-719a-4ba6-a696-b9d10b9cbc16",
+            "Value": {
+                "id": "49b20583-4350-4949-9345-5c9e8470ec93",
+                "resourcePath": "objects\\obj_t_splat\\obj_t_splat.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7a0662df-b18f-4bcf-af2f-4c3ed40331cc",
             "Value": {
                 "id": "802b2a79-a66e-4b3d-899a-98be5dcb844c",
