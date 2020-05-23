@@ -7,7 +7,8 @@
         "73609b2c-22c4-4a56-b5d3-8a3bee57047b",
         "1f491fe0-8713-44a1-b277-4e014bbbfdd9",
         "345a9fb1-c41a-4a3f-91b5-837aeb438794",
-        "370f4607-58e9-4c34-a37b-884758a446c0"
+        "370f4607-58e9-4c34-a37b-884758a446c0",
+        "9f02d78b-554b-41dc-a66b-da04894d2a27"
     ],
     "filterType": "GMSprite",
     "folderName": "Tim",
