@@ -5,13 +5,13 @@
     "name": "obj_d_test_boy",
     "eventList": [
         {
-            "id": "bdbe1f4c-dc6d-4373-aae1-c30138a03f3c",
+            "id": "be83d1aa-544f-4305-822c-ec7a6a325d7e",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 0,
+            "eventtype": 3,
             "m_owner": "ebbfc1b5-b4af-44d6-a960-50fe2e02720f"
         }
     ],
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "c9091f8d-476a-4a08-ba6c-341e7e7e6bc7",
     "visible": true
 }
