@@ -2,7 +2,7 @@
     "id": "e91c2dc0-3dc6-4775-990a-31be625b18e3",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_J_pononyo",
+    "name": "spr_j_pononyo",
     "For3D": false,
     "HTile": false,
     "VTile": false,
@@ -175,6 +175,6 @@
     "textureGroupId": "1225f6b0-ac20-43bd-a82e-be73fa0b6f4f",
     "type": 0,
     "width": 16,
-    "xorig": -3,
-    "yorig": -7
+    "xorig": -4,
+    "yorig": -2
 }
