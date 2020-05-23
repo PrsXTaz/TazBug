@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "719bab1b-a52d-4759-828a-79b9d3d93c31",
+            "Value": {
+                "id": "6f51696e-2368-4fce-b62b-64aee2c66fec",
+                "resourcePath": "sprites\\spr_j_pononyo_hit\\spr_j_pononyo_hit.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "73af2020-eb53-49f8-b9eb-372799ae8e5f",
             "Value": {
                 "id": "1c23729b-0b09-4bbb-9f7e-ad4288340c7a",
