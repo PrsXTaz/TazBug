@@ -6,7 +6,7 @@
     "children": [
         "73609b2c-22c4-4a56-b5d3-8a3bee57047b",
         "1f491fe0-8713-44a1-b277-4e014bbbfdd9",
-        "9c49a7c6-476c-4a4d-8952-24a024e48e87"
+        "345a9fb1-c41a-4a3f-91b5-837aeb438794"
     ],
     "filterType": "GMSprite",
     "folderName": "Tim",

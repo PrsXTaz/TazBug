@@ -2,7 +2,7 @@
     "id": "9c49a7c6-476c-4a4d-8952-24a024e48e87",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_t_slime_void",
+    "name": "spr_t_slime_void_test",
     "For3D": false,
     "HTile": false,
     "VTile": false,
