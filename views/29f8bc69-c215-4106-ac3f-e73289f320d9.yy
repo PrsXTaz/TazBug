@@ -4,7 +4,8 @@
     "mvc": "1.1",
     "name": "29f8bc69-c215-4106-ac3f-e73289f320d9",
     "children": [
-        "ebbfc1b5-b4af-44d6-a960-50fe2e02720f"
+        "ebbfc1b5-b4af-44d6-a960-50fe2e02720f",
+        "b2322a49-92c0-49bb-aaf2-a4a8668a25af"
     ],
     "filterType": "GMObject",
     "folderName": "Daniel",
