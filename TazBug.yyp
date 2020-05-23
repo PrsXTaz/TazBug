@@ -263,14 +263,6 @@
             }
         },
         {
-            "Key": "80acbbbc-4ba8-4978-803f-24e8d2089267",
-            "Value": {
-                "id": "3f2f77d3-71fa-4383-9645-2933e9c373f2",
-                "resourcePath": "objects\\obj_splat_hunt\\obj_splat_hunt.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "827dedc7-4c71-4c68-8777-1f226152fd4d",
             "Value": {
                 "id": "e82cd191-f975-429e-b8ef-b77bcc91d7ae",
