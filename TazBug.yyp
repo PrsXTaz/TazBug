@@ -391,11 +391,27 @@
             }
         },
         {
+            "Key": "e4748b06-7023-413c-a184-691b22e48aa5",
+            "Value": {
+                "id": "9e5b74e1-d26d-4c74-938e-8cbf1af9cff4",
+                "resourcePath": "sprites\\spr_wall_boundries\\spr_wall_boundries.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e91c2dc0-3dc6-4775-990a-31be625b18e3",
             "Value": {
                 "id": "28627fff-2e9a-4e76-a349-4706c86b882e",
                 "resourcePath": "sprites\\spr_j_pononyo\\spr_j_pononyo.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "eaf20d36-2878-496a-8f1a-8c85f4d32c7b",
+            "Value": {
+                "id": "f61e94e2-861a-4a68-8045-036f4b90f33c",
+                "resourcePath": "objects\\obj_t_wall\\obj_t_wall.yy",
+                "resourceType": "GMObject"
             }
         },
         {
