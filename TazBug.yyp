@@ -130,7 +130,7 @@
             "Key": "511934b3-b40e-4c00-a153-83988c80951e",
             "Value": {
                 "id": "c2a0202f-b13f-4fcc-b5f8-e9b626e97894",
-                "resourcePath": "sprites\\spr_wall_tiles\\spr_wall_tiles.yy",
+                "resourcePath": "sprites\\spr_t_wall_tiles\\spr_t_wall_tiles.yy",
                 "resourceType": "GMSprite"
             }
         },
