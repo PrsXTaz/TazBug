@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "15e2e7f3-2427-4c18-a772-c62616f8ca02",
+            "Value": {
+                "id": "58192659-f6c8-4feb-90bb-d4042d171c99",
+                "resourcePath": "objects\\obj_splatter\\obj_splatter.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2542c2b9-0553-4716-96a6-63a58240aeab",
             "Value": {
                 "id": "8225bee2-69bf-40c9-a700-4da88b5ce254",
