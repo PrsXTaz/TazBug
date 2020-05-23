@@ -18,7 +18,7 @@
             "name": "Assets_1",
             "id": "fb148348-c79f-4512-8ef4-6c30ef8f05e9",
             "assets": [
-
+{"__type": "GMRSpriteGraphic_Model:#YoYoStudio.MVCFormat","name": "graphic_1619CB0F","id": "cc054128-d80b-4610-bf30-dddaabdf7d0b","animationFPS": 15,"animationSpeedType": "0","colour": { "Value": 4294967295 },"frameIndex": 0,"ignore": false,"inheritItemSettings": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRSpriteGraphic","rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","spriteId": "9c49a7c6-476c-4a4d-8952-24a024e48e87","userdefined_animFPS": false,"x": 64,"y": 64}
             ],
             "depth": 0,
             "grid_x": 32,
