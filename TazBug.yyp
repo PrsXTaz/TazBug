@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "2b12afa4-5e6d-4afd-b5fb-9ed877f80bb1",
+            "Value": {
+                "id": "ef4a9eb5-d1bc-406d-bc1b-0b5fe9c697e7",
+                "resourcePath": "tilesets\\tls_t_wall_tiles\\tls_t_wall_tiles.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "2f346630-b0e9-4286-8a17-d8b460282342",
             "Value": {
                 "id": "85cbac34-43e4-453a-8ee8-4e6777c36293",
