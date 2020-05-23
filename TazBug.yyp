@@ -263,6 +263,14 @@
             }
         },
         {
+            "Key": "b48cebe5-a9f8-47dd-af1c-0a57239e3532",
+            "Value": {
+                "id": "504d1db8-0bf1-4f7f-89d7-49e9ef6d7a09",
+                "resourcePath": "sprites\\spr_t_pononyo\\spr_t_pononyo.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b66c0927-e0ab-4e8f-8b09-3ae28f44f365",
             "Value": {
                 "id": "69ee1396-6f25-44ef-845f-7e552ac1c6e4",
