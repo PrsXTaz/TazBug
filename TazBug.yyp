@@ -231,14 +231,6 @@
             }
         },
         {
-            "Key": "7ad53ecf-5036-4869-99c9-4e2b60ac60a1",
-            "Value": {
-                "id": "35bd05c1-a283-41dc-a465-ab6c0fb9a069",
-                "resourcePath": "sounds\\snd_t_bruv\\snd_t_bruv.yy",
-                "resourceType": "GMSound"
-            }
-        },
-        {
             "Key": "7bfc05a1-2edb-46da-8e97-f50fbe26102b",
             "Value": {
                 "id": "a35c6f0c-d3c7-4dea-84f1-41bc13fd3adb",
