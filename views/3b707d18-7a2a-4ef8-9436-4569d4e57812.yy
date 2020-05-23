@@ -6,8 +6,8 @@
     "children": [
         "511934b3-b40e-4c00-a153-83988c80951e",
         "9c49a7c6-476c-4a4d-8952-24a024e48e87",
-        "35751c25-6ee4-4e08-93b6-1f3520ecfb65",
-        "e4748b06-7023-413c-a184-691b22e48aa5"
+        "e4748b06-7023-413c-a184-691b22e48aa5",
+        "73609b2c-22c4-4a56-b5d3-8a3bee57047b"
     ],
     "filterType": "GMSprite",
     "folderName": "Tim",
