@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "404106a7-f2dd-4dfc-ab2f-36b882891152",
+            "Value": {
+                "id": "333cfb74-a329-49b1-9391-9b8aff272bb1",
+                "resourcePath": "sprites\\spr_t_glow_torch\\spr_t_glow_torch.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "41aa164d-32c5-4c4b-a45d-1ca6d75d21fe",
             "Value": {
                 "id": "043d5bdd-8222-40a6-b67c-c7939e899010",
@@ -243,6 +251,14 @@
             "Value": {
                 "id": "c2a0202f-b13f-4fcc-b5f8-e9b626e97894",
                 "resourcePath": "sprites\\spr_t_wall_tiles\\spr_t_wall_tiles.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "52982189-b526-4723-9b54-026885b39e16",
+            "Value": {
+                "id": "f434323d-f9d7-4773-bf06-73fbb0c70dea",
+                "resourcePath": "sprites\\spr_t_slime_hurt\\spr_t_slime_hurt.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -359,6 +375,14 @@
             }
         },
         {
+            "Key": "821719d7-039b-406c-856f-eac72e5934c9",
+            "Value": {
+                "id": "29d22e9e-32f4-4360-a347-775e96bcd796",
+                "resourcePath": "sprites\\spr_t_slime_walk\\spr_t_slime_walk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "827dedc7-4c71-4c68-8777-1f226152fd4d",
             "Value": {
                 "id": "e82cd191-f975-429e-b8ef-b77bcc91d7ae",
@@ -412,6 +436,14 @@
                 "id": "6e27dc0c-2458-48a4-a5a1-d4c421701076",
                 "resourcePath": "rooms\\rm_t_test\\rm_t_test.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "a50f1e90-c1ce-4805-8e19-7f374dde55c9",
+            "Value": {
+                "id": "3f2f31ed-a68e-4740-83dc-336f4d8cdf98",
+                "resourcePath": "objects\\obj_t_lighting\\obj_t_lighting.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -487,6 +519,14 @@
             }
         },
         {
+            "Key": "c135be0f-9d67-473b-901b-730f7b98976c",
+            "Value": {
+                "id": "4fa0218c-a161-44f9-bc6b-33966ff4bc79",
+                "resourcePath": "sprites\\spr_t_lighting\\spr_t_lighting.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c1b17cba-22b0-4348-b820-91a69e32d3bf",
             "Value": {
                 "id": "98233be7-0a18-4af5-9a02-5fb3e741d3e0",
@@ -500,6 +540,14 @@
                 "id": "106ce99e-fd18-4f87-9147-773a7a96efbb",
                 "resourcePath": "views\\c35cba19-cde3-444d-bbfd-fb92e3b58b9a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c3a8d7fd-c9ea-408d-9a8a-df5ce21c4e78",
+            "Value": {
+                "id": "3219db94-c46f-4758-9bff-393a0c3a8597",
+                "resourcePath": "sprites\\spr_t_glow\\spr_t_glow.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -540,6 +588,14 @@
                 "id": "5b62f43c-2f94-4689-8d7a-9847c026032c",
                 "resourcePath": "views\\ce273c0d-a378-47b0-aef4-6b8ae783a9cc.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "cefc8207-3d5a-489e-a126-c2871a2414db",
+            "Value": {
+                "id": "28c52d46-9e28-4b23-94e0-6efdc9060b73",
+                "resourcePath": "sprites\\spr_torch\\spr_torch.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
