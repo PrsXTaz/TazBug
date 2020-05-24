@@ -2,7 +2,7 @@
     "id": "a6f970d7-f779-4d81-b337-a5199ecb2ea4",
     "modelName": "GMTileSet",
     "mvc": "1.11",
-    "name": "tls_bag",
+    "name": "tls_t_bag",
     "auto_tile_sets": [
         
     ],

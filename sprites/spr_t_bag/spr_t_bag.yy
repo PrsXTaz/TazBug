@@ -2,7 +2,7 @@
     "id": "9f02d78b-554b-41dc-a66b-da04894d2a27",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_bag",
+    "name": "spr_t_bag",
     "For3D": false,
     "HTile": false,
     "VTile": false,
@@ -58,7 +58,7 @@
             "isLocked": false,
             "name": "Layer 1",
             "opacity": 100,
-            "visible": true
+            "visible": false
         },
         {
             "id": "5a2a5c39-1339-4e51-bad5-d6bbc533ab5f",

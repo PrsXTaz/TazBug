@@ -255,6 +255,14 @@
             }
         },
         {
+            "Key": "5d404cff-8cec-4b72-ae7c-e759ef2efa7f",
+            "Value": {
+                "id": "2cb5d894-5c8f-4025-bf89-ab51865573ee",
+                "resourcePath": "sprites\\spr_d_darkness1\\spr_d_darkness1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6901f5f8-ab49-4854-8320-3ee553a9f3e8",
             "Value": {
                 "id": "03460b86-61e5-44ba-9c0b-0f620299fddb",
@@ -362,7 +370,7 @@
             "Key": "9f02d78b-554b-41dc-a66b-da04894d2a27",
             "Value": {
                 "id": "5b70a21b-c32d-43cc-8f37-55e45ee06a62",
-                "resourcePath": "sprites\\spr_bag\\spr_bag.yy",
+                "resourcePath": "sprites\\spr_t_bag\\spr_t_bag.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -386,7 +394,7 @@
             "Key": "a6f970d7-f779-4d81-b337-a5199ecb2ea4",
             "Value": {
                 "id": "2ae7f3e0-3290-4b1a-b4fa-35fa58cd7231",
-                "resourcePath": "tilesets\\tls_bag\\tls_bag.yy",
+                "resourcePath": "tilesets\\tls_t_bag\\tls_t_bag.yy",
                 "resourceType": "GMTileSet"
             }
         },
