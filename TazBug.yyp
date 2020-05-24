@@ -170,7 +170,7 @@
             "Key": "41aa164d-32c5-4c4b-a45d-1ca6d75d21fe",
             "Value": {
                 "id": "043d5bdd-8222-40a6-b67c-c7939e899010",
-                "resourcePath": "objects\\obj_t_test_boy_torch\\obj_t_test_boy_torch.yy",
+                "resourcePath": "objects\\obj_t_test_boy_sword\\obj_t_test_boy_sword.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -580,6 +580,22 @@
                 "id": "cd595ba7-ccac-4339-9692-48b48c2b0ac4",
                 "resourcePath": "sounds\\snd_d_bruh\\snd_d_bruh.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "dea7d381-910c-4a11-b94f-238a31d8ff23",
+            "Value": {
+                "id": "8705a25f-9386-48a8-9f00-ca2e525f3b23",
+                "resourcePath": "sprites\\spr_t_player_walk_sword\\spr_t_player_walk_sword.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "dff67097-3fef-4e6e-a596-bb007c1664fa",
+            "Value": {
+                "id": "76324393-e123-44e3-9166-4fbb8679325d",
+                "resourcePath": "sprites\\spr_d_darkness2\\spr_d_darkness2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
