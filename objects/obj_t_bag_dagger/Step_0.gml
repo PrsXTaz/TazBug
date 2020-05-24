@@ -15,3 +15,18 @@ if(global.dagger == true)
 	sprite_index = spr_sword;
 	image_index = 1;
 }
+
+/// @DnDAction : YoYo Games.Common.Else
+/// @DnDVersion : 1
+/// @DnDHash : 104ADA0B
+else
+{
+	/// @DnDAction : YoYo Games.Instances.Set_Sprite
+	/// @DnDVersion : 1
+	/// @DnDHash : 4ECB3C8A
+	/// @DnDParent : 104ADA0B
+	/// @DnDArgument : "spriteind" "spr_sword"
+	/// @DnDSaveInfo : "spriteind" "b78278cf-9762-4959-b63c-0e0485f159b8"
+	sprite_index = spr_sword;
+	image_index = 0;
+}
