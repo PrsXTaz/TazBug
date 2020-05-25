@@ -8,11 +8,8 @@
         "1f491fe0-8713-44a1-b277-4e014bbbfdd9",
         "345a9fb1-c41a-4a3f-91b5-837aeb438794",
         "370f4607-58e9-4c34-a37b-884758a446c0",
-        "c135be0f-9d67-473b-901b-730f7b98976c",
         "9f02d78b-554b-41dc-a66b-da04894d2a27",
-        "c3a8d7fd-c9ea-408d-9a8a-df5ce21c4e78",
-        "30a3f931-291d-42fc-8dc4-727ad3a905fe",
-        "404106a7-f2dd-4dfc-ab2f-36b882891152"
+        "71f187a0-6bd9-4b34-80c5-134ab0f60541"
     ],
     "filterType": "GMSprite",
     "folderName": "Tim",

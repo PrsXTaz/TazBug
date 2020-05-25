@@ -17,7 +17,9 @@
         "f2d4400b-50d7-4784-8b6b-9e0a53a63180",
         "ac4975a0-e52d-41a5-ba86-3b511a6dbe28",
         "87c52c82-fa96-4834-abaf-db56b1bf1374",
-        "9f9cf04b-9d55-43ee-b6eb-2f2ca13bbbf9"
+        "9f9cf04b-9d55-43ee-b6eb-2f2ca13bbbf9",
+        "1ff43774-58e7-49e4-98bb-f86dc102a33b",
+        "af489e8a-077f-4339-b063-018f16c481cf"
     ],
     "IsDnD": true,
     "layers": [
@@ -175,8 +177,10 @@
             "inheritVisibility": false,
             "instances": [
 {"name": "inst_87548B0","id": "5156b8f9-8ed4-4e1d-b867-15acfa41a079","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_87548B0","objId": "25b62b0f-437c-4eaf-af06-d04e2d6603dc","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": -16,"y": 0},
-{"name": "inst_E23F090","id": "f2d4400b-50d7-4784-8b6b-9e0a53a63180","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_E23F090","objId": "e4a789f4-bf7b-48e3-a0a0-f5006ace36de","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 41,"y": 23},
-{"name": "inst_835A9BB","id": "87c52c82-fa96-4834-abaf-db56b1bf1374","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_835A9BB","objId": "d7e57b92-1f07-4c6b-9bf4-9766ad550d0b","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 54,"y": 65}
+{"name": "inst_E23F090","id": "f2d4400b-50d7-4784-8b6b-9e0a53a63180","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_E23F090","objId": "e4a789f4-bf7b-48e3-a0a0-f5006ace36de","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 88,"y": 71},
+{"name": "inst_835A9BB","id": "87c52c82-fa96-4834-abaf-db56b1bf1374","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_835A9BB","objId": "d7e57b92-1f07-4c6b-9bf4-9766ad550d0b","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 99,"y": 95},
+{"name": "inst_6F17C898","id": "1ff43774-58e7-49e4-98bb-f86dc102a33b","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_6F17C898","objId": "79683e56-2352-4b6d-8a9f-43c8386a0990","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 31,"y": 57},
+{"name": "inst_B55B250","id": "af489e8a-077f-4339-b063-018f16c481cf","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_B55B250","objId": "71b912c9-94ae-44bf-8ba2-9eca3123b832","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 39,"y": 23}
             ],
             "layers": [
 
@@ -216,7 +220,7 @@
                 "SerialiseWidth": 8,
                 "TileSerialiseData": [
                     0,0,0,0,0,0,0,0,
-                    0,6,7,9,10,6,8,0,
+                    0,6,7,9,7,6,8,0,
                     0,12,12,12,12,13,12,0,
                     0,16,12,12,12,0,0,0,
                     0,12,12,12,12,6,7,0,
