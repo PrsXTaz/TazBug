@@ -2,7 +2,7 @@ if surface_exists(surf_light)
 {
     surface_set_target(surf_light)
 	{
-        draw_clear_alpha(c_black,0.95);
+        draw_clear_alpha(c_black,0.98);
 
         gpu_set_blendmode(bm_subtract);
        //lit objects
