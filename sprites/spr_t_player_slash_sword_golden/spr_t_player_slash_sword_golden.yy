@@ -2,7 +2,7 @@
     "id": "b5c0eaea-f05c-4542-aff8-ad64957efca0",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_t_player_lash_sword_golden",
+    "name": "spr_t_player_slash_sword_golden",
     "For3D": false,
     "HTile": false,
     "VTile": false,

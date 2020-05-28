@@ -794,7 +794,7 @@
             "Key": "b5c0eaea-f05c-4542-aff8-ad64957efca0",
             "Value": {
                 "id": "85980b40-458f-451f-92a8-0c5169604913",
-                "resourcePath": "sprites\\spr_t_player_lash_sword_golden\\spr_t_player_lash_sword_golden.yy",
+                "resourcePath": "sprites\\spr_t_player_slash_sword_golden\\spr_t_player_slash_sword_golden.yy",
                 "resourceType": "GMSprite"
             }
         },
