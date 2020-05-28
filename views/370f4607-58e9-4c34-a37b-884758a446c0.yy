@@ -4,12 +4,11 @@
     "mvc": "1.1",
     "name": "370f4607-58e9-4c34-a37b-884758a446c0",
     "children": [
-        "b78278cf-9762-4959-b63c-0e0485f159b8",
-        "8ac1f239-b0c3-4b29-8b1b-c5756ecb1708",
-        "cefc8207-3d5a-489e-a126-c2871a2414db"
+        "b9d5c939-9f40-4e8b-9852-68fa3d9c8fe5",
+        "6dd7c003-3a57-4141-bafb-bd8da8991bad"
     ],
     "filterType": "GMSprite",
-    "folderName": "weapon",
+    "folderName": "finds",
     "isDefaultView": false,
     "localisedFolderName": ""
 }
