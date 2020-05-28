@@ -1,11 +1,11 @@
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 7D92ACC8
-/// @DnDArgument : "code" "if global.box_1_content = "empty"$(13_10)	{$(13_10)		// @t add pickup code$(13_10)$(13_10)	}$(13_10)else$(13_10)	{$(13_10)		if global.box_2_content = "empty"$(13_10)			{$(13_10)				// @t add pickup code$(13_10)			}$(13_10)		else$(13_10)			{$(13_10)				if global.box_3_content = "empty"$(13_10)					{$(13_10)						// @t add pickup code$(13_10)					}$(13_10)				else$(13_10)					{$(13_10)						// @t add reject code$(13_10)					}$(13_10)			}$(13_10)	}"
+/// @DnDArgument : "code" "if global.box_1_content = "empty"$(13_10)	{$(13_10)		global.box_1_content = sprite$(13_10)		instance_destroy(self)$(13_10)	}$(13_10)else$(13_10)	{$(13_10)		if global.box_2_content = "empty"$(13_10)			{$(13_10)				// @t add pickup code$(13_10)			}$(13_10)		else$(13_10)			{$(13_10)				if global.box_3_content = "empty"$(13_10)					{$(13_10)						// @t add pickup code$(13_10)					}$(13_10)				else$(13_10)					{$(13_10)						// @t add reject code$(13_10)					}$(13_10)			}$(13_10)	}"
 if global.box_1_content = "empty"
 	{
-		// l7D92ACC8_0 add pickup code
-
+		global.box_1_content = sprite
+		instance_destroy(self)
 	}
 else
 	{
