@@ -17,6 +17,12 @@ if surface_exists(surf_light)
 		{
                draw_sprite(spr_t_glow_passive, 0, x, y);
        }
+	   
+	   
+	   	   	   		 with(obj_t_wraith_test)
+		{
+               draw_sprite(spr_t_glow_passive, 0, x, y);
+       }
 	
 ///end lit objects
        gpu_set_blendmode(bm_normal);

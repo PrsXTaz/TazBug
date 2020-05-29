@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "0843f753-c7e0-4356-9659-a14b0f23f432",
+            "Value": {
+                "id": "911e20a0-68a2-449c-b846-a8bb6a170f2e",
+                "resourcePath": "views\\0843f753-c7e0-4356-9659-a14b0f23f432.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "0c7e439e-8f13-4f35-a177-ef95bf715db0",
             "Value": {
                 "id": "d81a8023-59c3-4f7d-9bad-3beab32d2947",
@@ -103,6 +111,14 @@
             }
         },
         {
+            "Key": "1eda19cd-8fd5-4724-94e8-bc604aea11cf",
+            "Value": {
+                "id": "ee923748-8be1-46f8-a5b7-2ce37b6f9edc",
+                "resourcePath": "sprites\\spr_t_wraith_walk\\spr_t_wraith_walk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1f491fe0-8713-44a1-b277-4e014bbbfdd9",
             "Value": {
                 "id": "e7c85022-ade5-414f-a0e9-a336b9415cbe",
@@ -140,6 +156,14 @@
                 "id": "bacc5a71-2e91-4f10-84c7-af9f0b3088c2",
                 "resourcePath": "sprites\\spr_t_buckler\\spr_t_buckler.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2728ddc2-beab-410e-be12-3d3d44b520a8",
+            "Value": {
+                "id": "a8eb5b05-93cc-434b-b82b-521d5570fab8",
+                "resourcePath": "views\\2728ddc2-beab-410e-be12-3d3d44b520a8.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -815,6 +839,14 @@
             }
         },
         {
+            "Key": "b378c93c-2173-45fa-8041-13618515f648",
+            "Value": {
+                "id": "11458255-c8f0-40ad-bda6-c2db2f36330c",
+                "resourcePath": "scripts\\scp_t_buckler\\scp_t_buckler.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "b5c0eaea-f05c-4542-aff8-ad64957efca0",
             "Value": {
                 "id": "85980b40-458f-451f-92a8-0c5169604913",
@@ -951,6 +983,14 @@
             }
         },
         {
+            "Key": "c55bd68f-54b1-45f9-9cef-03dabf54ffcd",
+            "Value": {
+                "id": "a691545e-3627-4d1e-9de8-0eec502d8171",
+                "resourcePath": "sprites\\spr_t_wraith_phase\\spr_t_wraith_phase.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c6549b76-6c29-4bd0-86f2-afd9888cfae6",
             "Value": {
                 "id": "7c6ffdac-7786-463e-acfe-c49f8ac32138",
@@ -964,6 +1004,14 @@
                 "id": "b2237c45-7469-490b-8d2a-1a01a6330e43",
                 "resourcePath": "views\\c761655e-71c0-40d2-b274-5728b1cf2734.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c91b8b56-7cc7-4b31-bbde-21353502d7eb",
+            "Value": {
+                "id": "413c3f55-f7cf-4b15-a340-5389b94dddd9",
+                "resourcePath": "objects\\obj_t_wraith_test\\obj_t_wraith_test.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1247,6 +1295,7 @@
         "0804b744-1f39-4562-be45-afb1239ffee3",
         "9a707dbe-131d-497b-bf46-b5b39f310b8e",
         "490f4de1-7207-4c50-8a36-ce7c0f33c789",
+        "b378c93c-2173-45fa-8041-13618515f648",
         "aa98f2f9-ffc9-44f7-8b74-f71cb3cde697",
         "5719d423-5566-44f8-af47-221fc0e09ab7",
         "d4b07934-1a91-405c-8160-0447b8df7992"
